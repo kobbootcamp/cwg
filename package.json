@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kobbootcamp/cwg/issues"
   },
-  "homepage": "https://github.com/kobbootcamp/cwg#readme"
+  "homepage": "https://github.com/kobbootcamp/cwg#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
 }
