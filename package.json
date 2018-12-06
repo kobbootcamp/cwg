@@ -1,0 +1,19 @@
+{
+  "name": "cwg",
+  "version": "1.0.0",
+  "description": "https://drive.google.com/file/d/1IC4OjL3NiKMWfGsuj-OwEDzA0ZVGDwXd/view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobbootcamp/cwg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobbootcamp/cwg/issues"
+  },
+  "homepage": "https://github.com/kobbootcamp/cwg#readme"
+}
